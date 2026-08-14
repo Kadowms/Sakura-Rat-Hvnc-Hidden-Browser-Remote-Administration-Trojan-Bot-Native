@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2D715F1D-7AFD-4EB8-8C3A-0F44BC930E0F}") = "SakuraRat 2.0", "SakuraRat2.0\SakuraRat.vbproj", "{DC265FFB-E444-4D75-A64C-0E2045713757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC265FFB-E444-4D75-A64C-0E2045713757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC265FFB-E444-4D75-A64C-0E2045713757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC265FFB-E444-4D75-A64C-0E2045713757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC265FFB-E444-4D75-A64C-0E2045713757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EF6DBC1-E0C9-40D3-965E-456A242E5F36}
+	EndGlobalSection
+EndGlobal
